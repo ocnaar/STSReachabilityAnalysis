@@ -1,8 +1,7 @@
 # STSReachabilityAnalysis
 Compute over-approximations for the reachable sets of the state, input, 
 and output of a three-link planar robot used to model the sit-to-stand  
-(STS) movement of a Powered Lower Limb Orthosis (PLLO) in the presence  
-of constant parameter uncertainty.                                                                
+(STS) movement of a Powered Lower Limb Orthosis (PLLO) in the presence of constant parameter uncertainty.                                                                
 
 The main file is "ReachabilityAnalysis.m". The LTV Toolbox available 
 at https://z.umn.edu/LTVTools and Matlab's Parallel Computing Toolbox 
